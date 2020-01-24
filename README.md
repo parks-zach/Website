@@ -1,2 +1,2 @@
 # Website
-This is the folder I use to organize the folders I use for my HTML, CSS, .JS, and PHP files
+This website is for my younger brother's company and this website is currently a Work In Progress (WIP)
